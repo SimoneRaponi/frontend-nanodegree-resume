@@ -66,7 +66,9 @@ var workProjects = {
 			"It is composed by three components: a dedicated layer for the APIs that allows the interfacing; " + 
 			"a batch module, useful to asynchronously evaluate the status of the addresses that are not in " + 
 			"the database; a module called 'service extractor' that can obtain updated information about hidden " + 
-			"service exploiting several services that are both in the clear and in the dark web."
+			"service exploiting several services that are both in the clear and in the dark web. " +
+			"OnionGatherer's source code was released open source on GitHub, capturing the attention of " +
+			"the Tor developers community"
 		}
 	]
 }
